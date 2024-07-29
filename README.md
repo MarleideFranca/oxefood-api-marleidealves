@@ -1,6 +1,6 @@
 <h1 align="center"> oxefood-api-marleide  </h1>
 
-<br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
+<br><h4 align="center"> 🟢 Status do projeto:  Em Andamento ✔️   </h4> <br>
 
 ### 🔧 Como instalar e rodar a aplicação:
 
