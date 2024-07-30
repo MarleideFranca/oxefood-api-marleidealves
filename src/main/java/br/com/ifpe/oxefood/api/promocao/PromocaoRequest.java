@@ -26,7 +26,7 @@ public class PromocaoRequest {
 
     private String regra;
 
-    private String valorDesconto;
+    private Double valorDesconto;
 
     public Promocao build() {
 

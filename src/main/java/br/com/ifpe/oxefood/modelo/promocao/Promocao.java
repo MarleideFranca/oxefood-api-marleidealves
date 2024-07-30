@@ -39,7 +39,7 @@ public class Promocao extends EntidadeAuditavel  {
     private String regra ;
  
     @Column
-    private String valorDesconto;
+    private Double valorDesconto;
  
 }
 
